@@ -6,7 +6,7 @@ body {
     margin: 0;
     background-color: #f0f0f0;
     font-family: Arial, sans-serif;
-    background-image: url('/wall.png');
+    background-image: url('wall.png');
     background-size: cover;
     background-position: center; 
     background-repeat: no-repeat; 
